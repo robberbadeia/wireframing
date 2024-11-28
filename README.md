@@ -136,3 +136,32 @@ From a software development perspective, wireframing is an essential practice th
 
   - **Example:**
     A team may use Figma to create a clickable wireframe of a mobile app, allowing users to test the navigation flow. The feedback from users helps refine the design and functionality before starting actual development, ensuring the final product meets user expectations.
+
+---
+
+## **Wireframing in Practice**
+
+- **Scenario: Redesign of an E-Commerce Website**
+  In a real-world scenario, a design team was tasked with redesigning an e-commerce website.
+  During the wireframing phase, the team created low-fidelity wireframes for key pages, including the product listing page and checkout process.
+  Upon reviewing the wireframes, the team identified several usability issues that could negatively impact the user experience:
+
+  - 1. **Overcrowded Product Listing Page**
+
+    - The wireframe displayed all product filters and categories in a single vertical sidebar, which made the page feel cluttered and difficult to navigate.
+    - **Resolution**: The team decided to reorganize the filters into collapsible dropdown menus to reduce visual clutter and improve the layout. This allowed users to easily expand and collapse categories based on their preferences.
+
+  2. **Confusing Checkout Flow**
+
+  - The wireframe showed a checkout process with too many steps, including separate pages for billing, shipping, and payment details. This could confuse users and lead to cart abandonment.
+  - **Resolution**: The team streamlined the checkout process into a single-page layout with clear sections for each step (billing, shipping, and payment). This made the flow simpler and less overwhelming for users.
+
+  3. **Missing Cart Visibility**
+
+  - The wireframe did not make the shopping cart visible on all pages, which meant users had to navigate away from the current page to check their cart.
+  - **Resolution**: The team added a persistent cart icon in the header, ensuring users could view and edit their cart at any point during their shopping journey.
+
+- **Final Project impact**
+  By identifying these usability issues early in the wireframing phase, the team was able to make necessary adjustments before development began. As a result, the final product offered a more intuitive and user-friendly experience, with a cleaner layout, a more efficient checkout process, and better cart visibility. User testing conducted with the revised wireframes confirmed a significant improvement in user satisfaction and engagement.
+
+---
