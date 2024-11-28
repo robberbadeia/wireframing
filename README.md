@@ -1,6 +1,6 @@
 # Wireframing
 
-## **Whhat is wireframing?**
+## **What is wireframing?**
 
 Wireframing is a crucial step in the design process, serving as **a blueprint or skeletal framework of a website or application.**
 
@@ -8,7 +8,9 @@ It outlines the basic **structure and layout** without delving into detailed des
 
 Wireframes focus on the placement of elements, navigation flow, and overall user interface structure.
 
-## **Wirframing importance in the design process0**
+---
+
+## **Wirframing importance in the design process**
 
 - **Clarifies Ideas and Concepts:**
   It allows designers and stakeholders to visualize the layout and structure of a project early in the process.
@@ -33,3 +35,31 @@ Wireframes focus on the placement of elements, navigation flow, and overall user
 
 - **Focuses on Functionality and User Experience:**
   By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
+
+---
+
+## **Wirframing key elements**
+
+- **Layout Structure**
+  The layout structure defines how content and elements are organized on the page. It dictates the position of key UI components such as headers, footers, sidebars, and content blocks. A well-planned layout ensures the interface is intuitive and easy to navigate.
+
+  **Example:**
+  In a news website wireframe, the layout structure might include a header at the top, followed by a main content area with articles, and a sidebar with trending topics or advertisements. This layout ensures that important content is prioritized and easily accessible.
+
+- **Navigation**
+  Navigation elements guide users through the interface and allow them to find content or interact with features. These can include menus, buttons, links, and search bars. Clear and intuitive navigation is essential for a positive user experience.
+
+  **Example:**
+  A wireframe for an e-commerce website might feature a top navigation bar with categories like "Home," "Shop," "Cart," and "Profile." A side navigation menu might be used for sub-categories such as "Men," "Women," and "Accessories." This structure helps users easily explore the site.
+
+- **Content Placement**
+  Content placement refers to how information, images, videos, and other elements are positioned within the wireframe. It involves creating a hierarchy of content to ensure that users can easily scan the page and access the most important information first.
+
+  **Example:**
+  In a blog wireframe, the main content area might be allocated to a list of blog posts, with each post having a title, summary, and image. Related posts or advertisements might be placed in the sidebar, ensuring that the core content remains the focus.
+
+- **Functionality**
+  Functionality in a wireframe refers to the interactive elements and features of the interface. This can include buttons, forms, sliders, and other interactive elements that enable users to take actions, such as submitting a form or navigating between pages.
+
+  **Example:**
+  In a wireframe for a contact page, you might include a form with fields for name, email, and message. A "Submit" button would be included at the bottom of the form, allowing users to send their message. This interactive functionality is critical for enabling user engagement.
