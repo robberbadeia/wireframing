@@ -38,7 +38,7 @@ Wireframes focus on the placement of elements, navigation flow, and overall user
 
 ---
 
-## **Wirframing key elements**
+## **Wirframing Key Elements**
 
 - **Layout Structure**
   The layout structure defines how content and elements are organized on the page. It dictates the position of key UI components such as headers, footers, sidebars, and content blocks. A well-planned layout ensures the interface is intuitive and easy to navigate.
@@ -63,3 +63,19 @@ Wireframes focus on the placement of elements, navigation flow, and overall user
 
   **Example:**
   In a wireframe for a contact page, you might include a form with fields for name, email, and message. A "Submit" button would be included at the bottom of the form, allowing users to send their message. This interactive functionality is critical for enabling user engagement.
+
+## **Wireframing Types**
+
+- **Low-Fidelity Wireframes:**
+  Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+
+- **High-Fidelity Wireframes:**
+  More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+- **Example:**
+
+  - [Check out the Project on Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&node-type=canvas&t=OyezbLEoOYMUt4Y1-0)
+
+  - This type of a high fidelity wireframe because this design include more details about layouts, content placement, font choices, ...effectively
+  - You might see logos, specific images, and realistic content instead of placeholders.
+  - The wireframe might look closer to a final design but without full styling and animation.
