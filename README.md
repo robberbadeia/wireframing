@@ -64,6 +64,8 @@ Wireframes focus on the placement of elements, navigation flow, and overall user
   **Example:**
   In a wireframe for a contact page, you might include a form with fields for name, email, and message. A "Submit" button would be included at the bottom of the form, allowing users to send their message. This interactive functionality is critical for enabling user engagement.
 
+---
+
 ## **Wireframing Types**
 
 - **Low-Fidelity Wireframes:**
@@ -79,3 +81,21 @@ Wireframes focus on the placement of elements, navigation flow, and overall user
   - This type of a high fidelity wireframe because this design include more details about layouts, content placement, font choices, ...effectively
   - You might see logos, specific images, and realistic content instead of placeholders.
   - The wireframe might look closer to a final design but without full styling and animation.
+
+---
+
+## **Wireframing Popular Tools**
+
+There are several wireframing tools available, each with its own set of features and capabilities.
+Here are the most popular ones:
+
+- ## **Figma**
+  [Figma](https://www.figma.com/)
+  - **Key Features:**
+  - **Cloud-Based**: No installation required, and teams can access the design files from anywhere.
+  - **Real-Time Collaboration**: Designers, developers, and stakeholders can work together seamlessly, making edits and leaving comments in real-time.
+  - **Design and Prototyping**: Figma allows for both wireframing and high-fidelity design within the same platform. You can create interactive prototypes to test user flows.
+  - **Vector-Based Tools**: Figma offers a robust set of vector tools, making it easy to create detailed wireframes and UI elements.
+  - **Cross-Platform**: Figma works on both macOS and Windows, which makes it accessible to a wide range of users.
+  - **Why Figma is Useful for Wireframing:**
+    Figma is highly recommended for wireframing because it combines simplicity with flexibility. It enables teams to collaborate on early-stage designs and easily transition from wireframing to prototyping. With its vector tools, you can quickly create and modify wireframes, while the prototyping features allow you to test user interactions before finalizing the design.
